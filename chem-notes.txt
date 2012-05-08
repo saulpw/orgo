@@ -1,0 +1,38 @@
+
+largely from http://www.webelements.com 
+
+Hydrogen   White  1p        0.74A
+     
+Carbon     Black  6p/6n     1.42A
+Nitrogen   Blue   7p/7n     1.10A
+Oxygen     Red    8p/8n     1.21A
+
+Sulphur    Yellow 16p/16n   2.05A
+Phoshorous Purple 15p/16n   2.21A
+
+http://wulfenite.fandm.edu/Data%20/Table_6.html
+
+C =-N                        1.16A
+*C =N                         1.29A
+*C -N                         1.47A
+
+C =-C                        1.20A
+*C =C                         1.34A
+*C -C                         1.54A
+
+*C =O                         1.20A
+*C -O                         1.43A
+
+*O -O                         1.48A (12)
+O=O                           1.21A
+
+*N =O                         1.21A
+*N -O                         1.40A
+*N -N                         1.45A
+*N =N                         1.25A
+ N =- N                       1.11A (
+
+*C -H                         1.09A
+*N -H                         1.01A (8)
+*O -H                         0.96A (<8)
+

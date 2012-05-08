@@ -1,0 +1,101 @@
+
+first, create the four main organic atoms
+carbon=C/black, 
+oxygen=O/red, 
+nitrogen=N/blue, 
+hydrogen=H/small  
+
+C/N/O should be around the size of a penny; H will be maybe half that diameter.
+
+next create a circular "bonding shell" around C, N, O, such that the total
+size of C > N > O >> H.
+
+C has no chad, single bond is 90 degrees
+
+N has a chad of 45 degrees, single bond is 105
+
+O has a chad of 60 degrees, single bond of 150
+
+[draw text carbon/nitrogen/oxygen on the C/N/O swaths, respectively, such
+that when the pieces are put together, the words are clear, but when apart,
+it is a puzzle.]
+
+now with these raw pieces, we will make the most important bonds.
+
+first, hydrogen single bond straight on 
+
+C-H (4.11)
+N-H (3.86)
+O-H (4.59)
+
+first, cyclohexane.  create a hexagon of carbon atoms, including
+the chopped up bonding shells, such that the shells touch a bit.
+rotate the carbon atoms such that the two C90s of each pair of carbons
+are all that is connecting the circle.  take 2 C90s at that distance
+and angle (120 degrees) and make a C-C bond (worth 3.46).
+
+benzyl (???) by making a single bond on each C face out from center.
+check for rotational symmetry and mirror symmetry. draw a hexagon and cut
+out the inner circle
+
+5-carbon ring to get C=C bond (6.02).
+
+then replace top C with O to make ascorbate (vitamin c):
+
+get C-O (3.58) bond angle/distance
+get C=O (7.99) (straight on)
+C-H (4.11)
+
+hydrogen peroxide:
+H-O (4.59)
+O-O (1.42)
+
+then create TNT
+N-O (2.01) N105 and O120
+N=O (6.07) N210 and O240
+N~O (4.??) N105 and O240
+
+N=N (4.18) two N210s
+N-N (1.67) 
+N-H (3.86)
+
+C-N (3.05)
+C=N (6.15)
+
+--- bigger pieces
+
+() means atoms are completely captured by the piece
+
+C-(O)-C           : ether
+
+Ethers feature C-O-C linkage defined by a bond angle of about 120° and C-O distances of about 1.5 Å. The barrier to rotation about the C-O bonds is low. The bonding of oxygen in ethers, alcohols, and water is similar. In the language of valence bond theory, the hybridization at oxygen is sp3.
+
+Oxygen is more electronegative than carbon, thus the hydrogens alpha to ethers are more acidic than in simple hydrocarbons. They are far less acidic than hydrogens alpha to ketones, however.
+
+(CH3)-C(H2)       : ethyl
+C(H3)             : methyl
+(OH)-C            : alcohol
+(O)=C-(OH)        : carboxylic acid (COOH)
+(O)=C-(H)         : aldehyde
+(O)=C-(O)-C       : ester
+(O)=(C)-C2        : ketone
+(O)=C-(NH2)       : amide
+C-(NH2)           : amine
+(NH2)-C(H)-(COOH) : amino acid (amine + carboxylic acid + C-H)
+
+In general, α-carbons of adjacent amino acids in a protein are about 3.8 ångströms (380 picometers) apart.
+
+(O)=C             : carbonyl
+
+package as:
+  diethyl ether (ether + 2 ethyl)
+  pyruvate (methyl + carboxylic acid + ketone)
+  methanol     (alcohol + methyl)
+  formaldehyde (aldehyde + C-H)
+  carbon dioxide (2 x C=O)
+  H2
+  O2
+
+
+[  acetone  (ketone + 2 methyl) ]
+[  glycine  (amino acid + C-H) ]
