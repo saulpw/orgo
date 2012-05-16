@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="289.14851"
-     inkscape:cy="808.77443"
+     inkscape:cx="313.91199"
+     inkscape:cy="825.7503"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -170,7 +170,7 @@
            y="316.54272"
            transform="matrix(0.70710679,-0.70710677,0.70710679,0.70710677,0,0)" />
         <rect
-           style="color:#000000;fill:#ff3232;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#dd1700;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect11192-6-2-3-4-91"
            width="19.44989"
            height="19.44989"
@@ -220,18 +220,18 @@
              y="287.18814">{nfpa_yellow}</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           x="185.45743"
-           y="299.29456"
+           style="font-size:8.87174129px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           x="184.23032"
+           y="297.9765"
            id="text3905-4-8-91-2"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3907-1-6-5-8"
-             x="185.45743"
-             y="299.29456">{nfpa_extra}</tspan></text>
+             x="184.23032"
+             y="297.9765">{nfpa_extra}</tspan></text>
       </g>
       <flowRoot
-         transform="translate(-6.0559959,-0.58578644)"
+         transform="translate(-6.0559959,2.9142136)"
          style="font-size:6px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Oblique"
          id="flowRoot3781"
          xml:space="preserve"><flowRegion
