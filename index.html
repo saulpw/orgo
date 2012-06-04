@@ -1,0 +1,168 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Orgo</title>
+  <meta name="description" content="organic chemistry puzzle pieces">
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+
+  <link rel="stylesheet" href="style.css">
+
+  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+
+  <!-- All JavaScript at the bottom, except this Modernizr build.
+       Modernizr enables HTML5 elements & feature detects for optimal performance.
+       Create your own custom Modernizr build: www.modernizr.com/download/ -->
+       <!--script src="js/libs/modernizr-2.5.3.min.js"></script-->
+
+       <style type="text/css">
+           .main { width: 90%; margin: auto; }
+           img#logo { display: block; margin: auto; }
+           #prototype img { width: 240px; margin: 3em 2em 2em 0; padding: 0em; }
+           #prototype img#card { width: 180px; }
+           .left { float: left; }
+           .right { float: right; }
+           h1{ text-align: center; } 
+           p.q { margin-top:2em; margin-bottom: .5em;  }
+           input {padding-right:4em; margin: 0 1em 0 1em; }
+           div.license { text-align: right; font-style: italic; font-size: 12px; padding-right: 1em; }           
+       </style>
+</head>
+<body>
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <header>
+
+  </header>
+  <div role="main" class="main">
+      <img id="logo" src="logo.png" alt="ORGO logo" title=""/>
+
+          <br/>
+          <div id="prototype" class="left">
+              <img src="orgo-prototype.jpg" alt="Orgo prototype"/>
+              <br/>
+<a href="http://www.flickr.com/photos/hvc/7207852586/" title="Orgo atoms and bonds"><img src="orgo-pieces.jpg" alt="Orgo pieces on a table"/></a>
+              <br/>
+<a href="mol1.svg" title="Orgo molecule cards"><img id="card" src="nitric-acid.png" alt="Nitric acid molecule card"/></a>
+              <br/>
+</div>
+          <div id="faq">
+      <h2>Orgo Multiple Choice FAQ</h2>
+
+      Please choose the answers you prefer.
+
+
+<form name="faqform" action="" method="POST">
+    <p class="q"><strong>What is Orgo, anyway?</strong></p>
+<input type="radio" name="whatisit" value="a1"> A game without rules.</input>
+<br/><input type="radio" name="fun" value="a2"> A fun toy for geeks.</input>
+<br/><input type="radio" name="whatisit" value="a3"> Some wooden pieces and a deck of cards in a cigar box.</input>
+<br/><input type="radio" name="whatisit" value="a4"> I didn't order this, I don't know what it is.</input>
+
+<p class="q"><strong>How do I play?</strong></p>
+<input type="radio" name="howdoiplay" value="a1"> Pick a molecule card and construct it with the pieces.</input>
+<br/><input type="radio" name="howdoiplay" value="a2"> Make a molecule with the pieces and figure out what it is.</input>
+<br/><input type="radio" name="howdoiplay" value="a3"> Make up your own rules (and <a href="mailto:saul&#x0040;pwanson.com">send them to me</a>).</input>
+<br/>
+<p class="q"><strong>Which elements are included in Orgo?</strong></p>
+<input type="radio" name="elements" value="a1"> Hydrogen</input>
+<br/><input type="radio" name="elements" value="a2"><strong> Carbon</strong></input>
+<br/><input type="radio" name="elements" value="a3"><span style="color:blue"> Nitrogen</span></input>
+<br/><input type="radio" name="elements" value="a4"><span style="color:red;"> Oxygen</span></input>
+
+<p class="q"><strong>Is Orgo actually any fun?</strong></p>
+<input type="radio" name="fun" value="a1"> Absolutely!  Orgo is at least as fun as learning organic chemistry.</input>
+<br/><input type="radio" name="fun" value="a2"> Orgo is science, not entertainment.  Stop trying to have fun and get back to studying.</input>
+<br/><input type="radio" name="fun" value="a3"> Video game sales are down while organic chemistry enrollments are up.  You decide.</input>
+
+<p class="q"><strong>Can I buy a set?</strong></p>
+<input type="radio" name="buy" value="a1"> For $200 you can buy an autographed limited-edition prototype.</input>
+<br/><input type="radio" name="buy" value="a2"> For $50 you can pre-order a set via Kickstarter.</input>
+<br/><input type="radio" name="buy" value="a3"> For $20 you can buy a cheaply-made set from Amazon.</input>
+<br/><input type="radio" name="buy" value="a4"> No.  No copies of Orgo exist.  Even the prototype shown was burned at a desert festival in a display of ritualized impermanence.</input>
+
+<p class="q"><strong>What future plans might you have for Orgo (depending on interest)?</strong></p>
+<input type="radio" name="better" value="a1">
+      18 more molecule cards (54 total), including TNT and acetaminophen.
+      </input>
+      <br/>
+<input type="radio" name="better" value="a2">
+      Automated card production, with the molecule name on the back.
+</input>
+<br/><input type="radio" name="better" value="a3">
+      Add larger functional groups (COOH, ketone, amine, methyl, etc).
+      </input>
+<br/><input type="radio" name="better" value="a4">
+      Add Sulfur and Phosphorous atoms and bonds.
+      </input>
+
+
+    <p class="q"><strong>How was Orgo made?</strong></p>
+<input type="radio" name="howmade1" value="a1" checked="checked">
+The <a href="bonds.svg">atoms and bonds (svg)</a> are <a href="http://metrixcreatespace.com/post/21631026547/inkscape-for-the-laser-engraver" title="Metrix Create:Space in Seattle">lasercut</a> from 3mm plywood ($50).</input>
+<br/><input type="radio" name="howmade2" value="a2" checked="checked">
+The deck of 36 <a href="mol1.svg">molecule</a> <a href="mol2.svg">cards</a> are printed on cardstock ($10).
+</input>
+<br/><input type="radio" name="howmade3" value="a3" checked="checked">
+The <a href="cover.svg">inside cover (svg)</a> is pasted onto the inside of a cigar box ($5).
+</input>
+<br/><input type="radio" name="howmade4" value="a4" checked="checked">
+Special thanks to Helen Cook for her help in bringing Orgo into existence.
+</input>
+<!--br/>
+
+<br/>
+Your email address: <input style="width:30em;" type="text" value=""></input>
+
+<br/>
+<br/>
+<input style="width:20em;" type="submit" value="Submit your answers"></input-->
+</div>
+    </form>
+
+
+  <div class="clear license">
+      <p class="q"> <br/> <hr/></p>
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/us/88x31.png" /></a><br /><a href="http://www.pwanson.com/orgo"><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Orgo</span></a> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.pwanson.com/saul" property="cc:attributionName" rel="cc:attributionURL">Saul Pwanson</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 United States License</a>.<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:saul&#x0040;pwanson.com" rel="cc:morePermissions">saul&#x0040;pwanson.com</a>.</div>
+
+  </div>
+  <footer>
+
+  </footer>
+
+  <!-- JavaScript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <!--script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script-->
+
+  <!-- scripts concatenated and minified via build script -->
+  <!--script src="js/plugins.js"></script>
+  <script src="js/script.js"></script-->
+  <!-- end scripts -->
+
+  <!-- Asynchronous Google Analytics snippet. Change UA-XXXXX-X to be your site's ID.
+       mathiasbynens.be/notes/async-analytics-snippet -->
+  <script>
+    var _gaq=[['_setAccount','UA-30170773-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
