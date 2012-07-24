@@ -64,64 +64,63 @@
           <div id="faq">
       <h2>Orgo Multiple Choice FAQ</h2>
 
-      Please choose the answers you prefer.
-
-
 <form name="faqform" action="" method="POST">
     <p class="q"><strong>What is Orgo, anyway?</strong></p>
-<input type="radio" name="whatisit" value="a1"> A game without rules.</input>
-<br/><input type="radio" name="fun" value="a2"> A fun toy for geeks.</input>
-<br/><input type="radio" name="whatisit" value="a3"> Some wooden pieces and a deck of cards in a cigar box.</input>
-<br/><input type="radio" name="whatisit" value="a4"> I didn't order this, I don't know what it is.</input>
+<input type="checkbox" name="whatisit" value="a1"> A game without rules.</input>
+<br/><input type="checkbox" name="fun" value="a2"> A fun toy for geeks.</input>
+<br/><input type="checkbox" name="whatisit" value="a3" checked="checked"> Some wooden pieces and a deck of cards in a cigar box.</input>
+<br/><input type="checkbox" name="whatisit" value="a4"> I didn't order this, I don't know what it is.</input>
 
 <p class="q"><strong>How do I play?</strong></p>
-<input type="radio" name="howdoiplay" value="a1"> Pick a molecule card and construct it with the pieces.</input>
-<br/><input type="radio" name="howdoiplay" value="a2"> Make a molecule with the pieces and figure out what it is.</input>
-<br/><input type="radio" name="howdoiplay" value="a3"> Make up your own rules (and <a href="mailto:saul&#x0040;pwanson.com">send them to me</a>).</input>
+<input type="checkbox" name="howdoiplay" value="a1"> Pick a molecule card and construct it with the pieces.</input>
+<br/><input type="checkbox" name="howdoiplay" value="a2"> Make a molecule with the pieces and figure out what it is.</input>
+<br/><input type="checkbox" name="howdoiplay" value="a3" checked="checked"> Make up your own rules (and <a href="mailto:saul&#x0040;pwanson.com">send them to me</a>).</input>
 <br/>
 <p class="q"><strong>Which elements are included in Orgo?</strong></p>
-<input type="radio" name="elements" value="a1"> Hydrogen</input>
-<br/><input type="radio" name="elements" value="a2"><strong> Carbon</strong></input>
-<br/><input type="radio" name="elements" value="a3"><span style="color:blue"> Nitrogen</span></input>
-<br/><input type="radio" name="elements" value="a4"><span style="color:red;"> Oxygen</span></input>
+<input type="checkbox" name="elements" value="a1" checked="checked"> Hydrogen</input>
+<br/><input type="checkbox" name="elements" value="a2" checked="checked"><strong> Carbon</strong></input>
+<br/><input type="checkbox" name="elements" value="a3" checked="checked"><span style="color:blue"> Nitrogen</span></input>
+<br/><input type="checkbox" name="elements" value="a4" checked="checked"><span style="color:red;"> Oxygen</span></input>
+<!--br/><input type="checkbox" name="elements" value="a5"><span style="color:yellow;"> Sulfur</span></input>
+<br/><input type="checkbox" name="elements" value="a6"><span style="color:green;"> Phosphorus</span></input-->
 
 <p class="q"><strong>Is Orgo actually any fun?</strong></p>
-<input type="radio" name="fun" value="a1"> Absolutely!  Orgo is at least as fun as learning organic chemistry.</input>
-<br/><input type="radio" name="fun" value="a2"> Orgo is science, not entertainment.  Stop trying to have fun and get back to studying.</input>
-<br/><input type="radio" name="fun" value="a3"> Video game sales are down while organic chemistry enrollments are up.  You decide.</input>
+<input type="checkbox" name="fun" value="a1" checked="true"> Absolutely!  Orgo is at least as fun as learning organic chemistry.</input>
+<br/><input type="checkbox" name="fun" value="a2"> Orgo is science, not entertainment.  Stop trying to have fun and get back to studying.</input>
+<br/><input type="checkbox" name="fun" value="a3"> Video game sales are down while organic chemistry enrollments are up.  You decide.</input>
 
 <p class="q"><strong>Can I buy a set?</strong></p>
-<input type="radio" name="buy" value="a1"> For $200 you can buy an autographed limited-edition prototype.</input>
-<br/><input type="radio" name="buy" value="a2"> For $50 you can pre-order a set via Kickstarter.</input>
-<br/><input type="radio" name="buy" value="a3"> For $20 you can buy a cheaply-made set from Amazon.</input>
-<br/><input type="radio" name="buy" value="a4"> No.  No copies of Orgo exist.  Even the prototype shown was burned at a desert festival in a display of ritualized impermanence.</input>
+<input type="checkbox" name="buy" value="a1" checked="checked"> For $200 you can buy an autographed limited-edition prototype.</input>
+<br/><input type="checkbox" name="buy" value="a2"> For $50 you can pre-order a set via Kickstarter.</input>
+<br/><input type="checkbox" name="buy" value="a3"> For $20 you can buy a cheaply-made set from Amazon.</input>
+<br/><input type="checkbox" name="buy" value="a4"> No.  No copies of Orgo exist.  Even the prototype shown was burned at a desert festival in a display of ritualized impermanence.</input>
 
 <p class="q"><strong>What future plans might you have for Orgo (depending on interest)?</strong></p>
-<input type="radio" name="better" value="a1">
+<input type="checkbox" name="better" value="a1" checked="checked">
       18 more molecule cards (54 total), including TNT and acetaminophen.
       </input>
       <br/>
-<input type="radio" name="better" value="a2">
+<input type="checkbox" name="better" value="a2" checked="checked">
       Automated card production, with the molecule name on the back.
 </input>
-<br/><input type="radio" name="better" value="a3">
+<br/><input type="checkbox" name="better" value="a3" checked="checked">
       Add larger functional groups (COOH, ketone, amine, methyl, etc).
       </input>
-<br/><input type="radio" name="better" value="a4">
+<br/><input type="checkbox" name="better" value="a4">
       Add Sulfur and Phosphorous atoms and bonds.
       </input>
 
 
     <p class="q"><strong>How was Orgo made?</strong></p>
-<input type="radio" name="howmade1" value="a1" checked="checked">
-The <a href="bonds.svg">atoms and bonds (svg)</a> are <a href="http://metrixcreatespace.com/post/21631026547/inkscape-for-the-laser-engraver" title="Metrix Create:Space in Seattle">lasercut</a> from 3mm plywood ($50).</input>
-<br/><input type="radio" name="howmade2" value="a2" checked="checked">
-The deck of 36 <a href="mol1.svg">molecule</a> <a href="mol2.svg">cards</a> are printed on cardstock ($10).
+<input type="checkbox" name="howmade" value="a1" checked="checked">
+The <a href="bonds.svg">atoms and bonds (svg)</a> are <a href="http://metrixcreatespace.com/post/21631026547/inkscape-for-the-laser-engraver" title="Metrix Create:Space in Seattle">lasercut</a> from 3mm plywood.</input>
+<br/><input type="checkbox" name="howmade" value="a2" checked="checked">
+The deck of 36 <a href="mol1.svg">molecule</a> <a href="mol2.svg">cards</a> is printed on cardstock. (pdf: <a href="mol1.pdf">p1</a> <a href="mol2.pdf">p2</a> <a href="mol3.pdf">extra</a>)
 </input>
-<br/><input type="radio" name="howmade3" value="a3" checked="checked">
-The <a href="cover.svg">inside cover (svg)</a> is pasted onto the inside of a cigar box ($5).
+<br/><input type="checkbox" name="howmade" value="a3" checked="checked">
+The <a href="cover.svg">inside cover (svg)</a> is pasted onto the inside of a cigar box.
 </input>
-<br/><input type="radio" name="howmade4" value="a4" checked="checked">
+<br/><input type="checkbox" name="howmade" value="a4" checked="checked">
 Special thanks to Helen Cook for her help in bringing Orgo into existence.
 </input>
 <!--br/>

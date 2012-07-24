@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="775.7772"
-     inkscape:cy="463.87012"
+     inkscape:zoom="0.5"
+     inkscape:cx="417.96674"
+     inkscape:cy="152.79812"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -66,7 +66,7 @@
      id="layer1">
     <g
        id="g0"
-       transform="translate(62.225397,15.556349)">
+       transform="translate(0, 0)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -86,7 +86,7 @@
            y="49.259933"
            x="13.115603"
            id="tspan3761"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">oxidane</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3763"
@@ -151,7 +151,7 @@
            y="34.819935"
            x="13.535525"
            id="tspan3783"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">oxane</tspan></text>
       <g
          transform="translate(0,3.5355339)"
          id="g3044">
@@ -247,7 +247,7 @@
            id="flowPara3787">From a drop of water a logician could infer the possibility of an Atlantic or a Niagara without having seen or heard of one or the other. -- Arthur Conan Doyle</flowPara></flowRoot>    </g>
     <g
        id="g1"
-       transform="translate(292.2254,15.556349)">
+       transform="translate(230, 0)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -428,7 +428,7 @@
            id="flowPara101">Spirit of Hartshorn.--This volatile liquor often affords immediate relief in cases of lowness of spirits, fainting, and hysteric fits.  It may be rubbed over the temples, and applied to the nostrils.</flowPara></flowRoot>    </g>
     <g
        id="g2"
-       transform="translate(522.2254,15.556349)">
+       transform="translate(460, 0)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -448,7 +448,7 @@
            y="49.259933"
            x="13.115603"
            id="tspan108"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">natural gas (80%)</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text110"
@@ -513,7 +513,7 @@
            y="34.819935"
            x="13.535525"
            id="tspan130"
-           sodipodi:role="line">natural gas (80%)</tspan></text>
+           sodipodi:role="line">marsh gas</tspan></text>
       <g
          transform="translate(0,3.5355339)"
          id="g132">
@@ -609,7 +609,7 @@
            id="flowPara164">The United Nations has declared the methane from cow emissions the greatest threat to the climate, forests, and wildlife.</flowPara></flowRoot>    </g>
     <g
        id="g3"
-       transform="translate(752.2254,15.556349)">
+       transform="translate(690, 0)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -790,7 +790,7 @@
            id="flowPara227">pismire (n.)  an archaic or dialect word for an ant.  (literally: urinating ant, from the odour of formic acid characteristic of an ant hill)</flowPara></flowRoot>    </g>
     <g
        id="g4"
-       transform="translate(982.2254,15.556349)">
+       transform="translate(920, 0)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -810,7 +810,7 @@
            y="49.259933"
            x="13.115603"
            id="tspan234"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">ethyl hydride</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text236"
@@ -875,7 +875,7 @@
            y="34.819935"
            x="13.535525"
            id="tspan256"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">natural gas (5%)</tspan></text>
       <g
          transform="translate(0,3.5355339)"
          id="g258">
@@ -971,7 +971,7 @@
            id="flowPara290">_______</flowPara></flowRoot>    </g>
     <g
        id="g5"
-       transform="translate(1212.2254,15.556349)">
+       transform="translate(1150, 0)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -1152,7 +1152,7 @@
            id="flowPara353">Description: Distinctive, straw-like, somewhat acrid character; sherry-like.  Prevention: Minimize exposure of finished wines to air.</flowPara></flowRoot>    </g>
     <g
        id="g6"
-       transform="translate(62.225397,335.55635)">
+       transform="translate(0, 320)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -1333,7 +1333,7 @@
            id="flowPara416">Bleach, disinfectant, rocket propellant</flowPara></flowRoot>    </g>
     <g
        id="g7"
-       transform="translate(292.2254,335.55635)">
+       transform="translate(230, 320)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -1514,7 +1514,7 @@
            id="flowPara479">Hydrazine was first used as a rocket fuel during World War II for the the first rocket-powered fighter plane under the code name B-Stoff.</flowPara></flowRoot>    </g>
     <g
        id="g8"
-       transform="translate(522.2254,335.55635)">
+       transform="translate(460, 320)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -1695,7 +1695,7 @@
            id="flowPara542">Beware of bad moonshine: two shots blind you, three shots kill you.</flowPara></flowRoot>    </g>
     <g
        id="g9"
-       transform="translate(752.2254,335.55635)">
+       transform="translate(690, 320)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -1715,7 +1715,7 @@
            y="49.259933"
            x="13.115603"
            id="tspan549"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">spiritus sylvestre</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text551"
@@ -1876,7 +1876,7 @@
            id="flowPara605">As a scientist, my attention became totally focused on global warming some 15 years ago by the elegant and powerful measurements of carbon dioxide trapped in ice cores taken as much as 2 miles deep from the great East Antarctica ice sheet.  -- John Olver</flowPara></flowRoot>    </g>
     <g
        id="g10"
-       transform="translate(982.2254,335.55635)">
+       transform="translate(920, 320)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -2057,7 +2057,7 @@
            id="flowPara668">Shaken, not stirred.</flowPara></flowRoot>    </g>
     <g
        id="g11"
-       transform="translate(1212.2254,335.55635)">
+       transform="translate(1150, 320)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -2238,7 +2238,7 @@
            id="flowPara731">The best wine doth make the sharpest vinegar. -- John Lyly</flowPara></flowRoot>    </g>
     <g
        id="g12"
-       transform="translate(62.225397,655.55635)">
+       transform="translate(0, 640)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -2419,7 +2419,7 @@
            id="flowPara794">Among the notable things about fire is that it also requires oxygen to burn - exactly like its enemy, life. Thereby are life and flames so often compared. -- Otto Weininger</flowPara></flowRoot>    </g>
     <g
        id="g13"
-       transform="translate(292.2254,655.55635)">
+       transform="translate(230, 640)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -2600,7 +2600,7 @@
            id="flowPara857">All we are is a lot of talking nitrogen.  -- Arthur Miller</flowPara></flowRoot>    </g>
     <g
        id="g14"
-       transform="translate(522.2254,655.55635)">
+       transform="translate(460, 640)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -2781,7 +2781,7 @@
            id="flowPara920">Formaldehyde mixed with blood causes the grey discoloration known as 'embalmer's grey'.</flowPara></flowRoot>    </g>
     <g
        id="g15"
-       transform="translate(752.2254,655.55635)">
+       transform="translate(690, 640)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -2962,7 +2962,7 @@
            id="flowPara983">Ethylene...why can't you be true?</flowPara></flowRoot>    </g>
     <g
        id="g16"
-       transform="translate(982.2254,655.55635)">
+       transform="translate(920, 640)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -3143,7 +3143,7 @@
            id="flowPara1046">It was the mechanic, in the garage, with the antifreeze.</flowPara></flowRoot>    </g>
     <g
        id="g17"
-       transform="translate(1212.2254,655.55635)">
+       transform="translate(1150, 640)">
       <rect
          ry="10.352113"
          rx="7.3943663"
@@ -3323,7 +3323,7 @@
              id="rect1107" /></flowRegion><flowPara
            id="flowPara1109">In a pinch, diabetic urine could be used to remove nail polish.</flowPara></flowRoot>    </g>
     <g
-       transform="translate(18.142537,-3.2495978)"
+       transform="translate(-47.08286,-17.97752)"
        id="g9225">
       <g
          style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -3947,7 +3947,7 @@
       </g>
     </g>
     <g
-       transform="translate(18.142537,-3.2495978)"
+       transform="translate(-47.08286,-17.97752)"
        id="g8149">
       <g
          style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -4635,7 +4635,7 @@
       </g>
     </g>
     <g
-       transform="translate(18.142537,-3.2495978)"
+       transform="translate(-47.08286,-17.97752)"
        id="g8019">
       <g
          style="stroke-width:2.67536712;stroke-miterlimit:4;stroke-dasharray:none"

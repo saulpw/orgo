@@ -7,8 +7,8 @@ svg = file("card-template.svg").read()
 molecules = {
 1:{
 'name1':"WATER",
-'name2':"",
-'name3':"",
+'name2':"oxane",
+'name3':"oxidane",
 'type':"",
 'mass':18,
 'state':"liquid",
@@ -22,8 +22,8 @@ molecules = {
 
 3:{
 'name1':"METHANE",
-'name2':"natural gas (80%)",
-'name3':"",
+'name2':"marsh gas",
+'name3':"natural gas (80%)",
 'type':"alkane",
 'state':"gas",
 'mass':16,
@@ -38,8 +38,8 @@ molecules = {
 },
 5:{
 'name1':"ETHANE",
-'name2':"",
-'name3':"",
+'name2':"natural gas (5%)",
+'name3':"ethyl hydride",
 'type':"alkane",
 'state':"gas",
 'mass':30,
@@ -70,7 +70,7 @@ molecules = {
 10:{
 'name1':"CARBON DIOXIDE",
 'name2':"air (1%)",
-'name3':"",
+'name3':"spiritus sylvestre",
 'type':"",
 'pKa':"",
 'state':"gas",
@@ -144,14 +144,14 @@ molecules = {
 20:{
 'name1':"PROPANOL",
 'name2':"1-propyl alcohol",
-'name3':"",
+'name3':"fusel oil",
 'type':"alcohol",
 'pKa':"16",
 'pKb':"-2",
 'mass':60,
 'state':"liquid",
 'formula':"C3H7OH",
-'flavor':"",
+'flavor':"A hot, spicy flavor detected as a vinous or fusel aroma and by a warming, prickling sensation in the mouth and throat.",
 'nfpa_blue':1,
 'nfpa_red':3,
 'nfpa_yellow':0,
@@ -601,7 +601,7 @@ molecules = {
 },
 40:{
 'name1':"ACETAMINOPHEN",
-'name2':"",
+'name2':"paracetamol",
 'name3':"",
 'type':"analgesic",
 'pKa':"",
